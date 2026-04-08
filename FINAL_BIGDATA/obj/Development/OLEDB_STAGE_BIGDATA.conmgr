@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OLEDB_STAGE_BIGDATA"
+  DTS:DTSID="{8FFBD0D6-F13B-4DC7-B545-B30064B4F05D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-AU06DAS\MSSQLSERVER2022;Initial Catalog=STAGE_BIGDATA;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-STAGE_BIGDATA-{8FFBD0D6-F13B-4DC7-B545-B30064B4F05D}DESKTOP-AU06DAS\MSSQLSERVER2022.STAGE_BIGATA1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

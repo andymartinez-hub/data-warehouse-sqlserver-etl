@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "STAGE_BIGDATA", "FINAL_BIGDATA\STAGE_BIGDATA.dtproj", "{04EF6443-7A61-CA4D-8A7E-FF0F7C28B6C1}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DWH_BIGDATA", "DWH_BIGDATA\DWH_BIGDATA.dtproj", "{AF1DD251-B428-9681-7259-85FB2F31C913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EF6443-7A61-CA4D-8A7E-FF0F7C28B6C1}.Development|Default.ActiveCfg = Development
+		{04EF6443-7A61-CA4D-8A7E-FF0F7C28B6C1}.Development|Default.Build.0 = Development
+		{AF1DD251-B428-9681-7259-85FB2F31C913}.Development|Default.ActiveCfg = Development
+		{AF1DD251-B428-9681-7259-85FB2F31C913}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {113D2B68-D15B-4F50-8976-09FF1BBF64AC}
+	EndGlobalSection
+EndGlobal

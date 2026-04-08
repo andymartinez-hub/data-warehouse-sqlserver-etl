@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ADONET_STAGE_BIGDATA"
+  DTS:DTSID="{79B3FED5-4388-48C1-B78B-AD76FD74F258}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-AU06DAS\MSSQLSERVER2022;Initial Catalog=STAGE_BIGDATA;Integrated Security=True;TrustServerCertificate=True;Application Name=SSIS-STAGE_BIGDATA-{79B3FED5-4388-48C1-B78B-AD76FD74F258}DESKTOP-AU06DAS\MSSQLSERVER2022.STAGE_BIGATA;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
