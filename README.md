@@ -50,3 +50,4 @@ link: https://drive.google.com/file/d/18p3xkgnPTmPAxhv8ZLnRcmfOhtRFmDil/view
 preview:
 ![alt text](DASHBOARD_02.jpeg)
 ![alt text](DASHBOARD_07.jpeg)
+![alt text](image.png)
